@@ -1,0 +1,1 @@
+Binary search : Works only on sorted array
